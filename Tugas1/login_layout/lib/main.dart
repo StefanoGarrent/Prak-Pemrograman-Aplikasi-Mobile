@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Widget halaman login
+// Widget halaman login yang sudah pasti
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
 
